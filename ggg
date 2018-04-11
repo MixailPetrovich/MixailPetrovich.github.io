@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+   
+    <meta property="og:url" content="">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Зенченко Михаил - верстка сайтов на HTML и CSS">
+    <meta property="og:image" content="">
+    <meta property="og:description" content="Пригласите в команду">
+    <meta property="og:site_name" content="Портфолио верстальщика">
+    <meta property="article:author" content="Михаил Зенченко">
+
+    <title>ZMP</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> 
+
+    <link href="dist/css/style.css" rel="stylesheet">
+
+   <!-- <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"> -->
+
+	
+</head>
+
+<body class="df main center column">
+
+	<section class="bloc_1 bloc df">
+
+			<div class="conteiner wrap df column">
+
+				<header id="header" class="header df center wrap">
+
+					<a href="#" class="a_menu df center">home</a>
+					<a href="#" class="a_menu df center">portfolio</a>
+					<a href="#" class="a_menu df center">about us</a>
+					<a href="#" class="a_menu df center">contact</a>
+					
+				</header>
+
+				<div class="conteiner_bl1_bl2 wrap bloc_1_wrap-rewrs df">
+
+					<div class="bloc_1_podbloc dbloc_1 podbloc df column">
+						
+						<h1 class="podbloc_h1 df">our strong <br>
+						organaisation</h1>
+
+						<p class="podbloc_p_bl_1 df">Lorem ipsum dolor sit amet, consectetur adipis cing elit, sed do eiusmod tempor incididunt  ut labore et. ectetur adig ipis cing elit, sed do eiusmod tempor incididunt.</p>
+						
+
+						<a href="#" class="button_bl_1_pbl_1 df center">Contact Us</a>
+
+					</div>
+
+					<div class="bl_1_pbl_2 bl_1_podbloc_2 df center">
+						
+						<video class="bloc_video center df" src="dist/video/">
+							
+						</video>
+
+					</div>
+
+				</div>
+
+			</div>
+
+		</section>
+
+		<section class="bloc_2 bloc df">
+			
+			<div class="conteiner wrap df">
+
+					<div class="bloc_2_podbloc_1 podbloc df column">
+						
+						<h2 class="podbloc_h2 bl_2_podbloc_h2 df">do you know we can provide for you ?</h2>
+
+						<p class="podbloc_p_bl_2 df">Lorem ipsum dolor sit amet, consectetur adipis cing elit, sed do eiusmod tempor incididunt ut labore et.Lorem ni ipsum dolor sit amet, consectetur adipis cing elit, ed doi eiusmod tempor incididunt ut labore et.</p>
+						
+
+						<a href="#" class="button_bl_1_pbl_1 df center">Learn More</a>
+
+					</div>
+
+					<div class="bloc_2_podbloc_2 podbloc df wrap">
+						
+						<div class="bl_2_pbl_2_ppbl_1 bl_2_ppbl df column">
+							<img src="dist/img/1.png" alt="icon">
+							<h2>Management</h2>
+							<p>lorem ipsum dolor sitea amet, zixf conseit  adipi cing elit, seddi do eiusmod btdempor in didunt utlae ore etioe.Lorem ipsum new idolor</p>
+						</div>
+						<div class="bl_2_pbl_2_ppbl_2 bl_2_ppbl df column">
+							<img src="dist/img/2.png" alt="icon">
+							<h2>UI /UX Design</h2>
+							<p>lorem ipsum dolor sitea amet, zixf conseit  adipi cing elit, seddi do eiusmod btdempor in didunt utlae ore etioe.Lorem ipsum new idolor</p>
+						</div>
+						<div class="bl_2_pbl_2_ppbl_3 bl_2_ppbl df column">
+							<img src="dist/img/3.png" alt="icon">
+							<h2>Logo / Branding</h2>
+							<p>lorem ipsum dolor sitea amet, zixf conseit  adipi cing elit, seddi do eiusmod btdempor in didunt utlae ore etioe.Lorem ipsum new idolor</p>
+						</div>
+
+						<div class="bl_2_pbl_2_ppbl_4 bl_2_ppbl df column">
+							<img src="dist/img/4.png" alt="icon">
+							<h2>Animation</h2>
+							<p>lorem ipsum dolor sitea amet, zixf conseit  adipi cing elit, seddi do eiusmod btdempor in didunt utlae ore etioe.Lorem ipsum new idolor</p>
+						</div>
+						
+
+					</div>
+
+			</div>
+
+		</section>
+
+		<section class="bloc_3 bloc df">
+
+			<div class="conteiner wrap">
+				
+				<div class="bl_3_pb_1 center df">
+					<h2 class="bl_3_pb_1_h2 df">feature products</h2>
+				</div>
+
+				<div class="bl_3_pb_2 center df">
+					<p class="center df">Lorem ipsum dolor sit amet, consectetur adipis cing elit,sed do eiusmod tempor incididunt ut labore et.</p>
+				</div>
+
+				<div class="bl_3_pb_3_red_polosa"></div>
+
+				<div class="bl_3_pb_4_menu wrap df">
+					<a href="#" class="menu_bl_3 menu_bl_3_1 center df">all</a>
+					<a href="#" class="menu_bl_3 menu_bl_3_2 center df">print template</a>
+					<a href="#" class="menu_bl_3 menu_bl_3_3 center df">web template</a>
+					<a href="#" class="menu_bl_3 menu_bl_3_4 center df">user interface</a>
+					<a href="#" class="menu_bl_3 menu_bl_3_5 center df">mock-up</a>
+				</div>
+
+				<div class="bl_3_pb_5 df center wrap">
+
+					<img src="dist/img/bl_3/" alt="img" class="img_bl3_3_1 img_bl_3 df center">
+					<img src="dist/img/bl_3/" alt="img" class="img_bl3_3_2 img_bl_3 df center">
+					<img src="dist/img/bl_3/" alt="img" class="img_bl3_3_3 img_bl_3 df center">
+					<img src="dist/img/bl_3/" alt="img" class="img_bl3_3_4 img_bl_3 df center">
+					<img src="dist/img/bl_3/" alt="img" class="img_bl3_3_5 img_bl_3 df center">
+					<img src="dist/img/bl_3/" alt="img" class="img_bl3_3_6 img_bl_3 df center">
+					<img src="dist/img/bl_3/" alt="img" class="img_bl3_3_7 img_bl_3 df center">
+					<img src="dist/img/bl_3/" alt="img" class="img_bl3_3_8 img_bl_3 df center">
+
+				</div>
+
+			</div>
+
+		</section>
+
+		<section class="bloc_4 bloc df">
+			<div class="conteiner wrap">
+
+			</div>
+		</section>
+
+		<section class="bloc_5 bloc df">
+			<div class="conteiner wrap">
+
+			</div>
+		</section>
+
+		<section class="bloc_6 bloc df">
+			<div class="conteiner wrap">
+
+			</div>
+		</section>
+
+		<section class="bloc_7 bloc df">
+			<div class="conteiner wrap">
+				
+			</div>
+		</section>
+
+		<section class="bloc_8 bloc df">
+			<div class="conteiner wrap">
+				
+			</div>
+		</section>	
+
+		
+
+
+
+
+		<!-- script -->
+
+<script type="text/javascript" src="dist/js/js.js"></script>
+
+</body>
+
+</html>
